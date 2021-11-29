@@ -1,4 +1,4 @@
-# DarkLabel
+# DarkLabel（目标跟踪标注工具）
 
 ### Video/Image Labeling and Annotation Tool
 This is a utility program that can label object bounding boxes with ID and name in videos and images. It also can be used to crop videos, sample traninig images in a video, and mosaic image region. Anyone can use it for non-commercial purposes.
